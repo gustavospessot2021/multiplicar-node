@@ -11,7 +11,7 @@ Esto generaria un archivo con la Tabla del 7 desde el 0 al 12
 
 
 IMPORTANTE: Recordar que se debe ejecutar el 
-===========    
+==
 
             npm install  
 
