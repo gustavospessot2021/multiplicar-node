@@ -8,3 +8,9 @@ Por ejemplo:
     node app.js crear -b 7 - 12
 
     Generaria un archivo con la Tabla del 7 desde el 0 al 12
+
+IMPORTANTE: Recordar que se debe ejecutar el 
+    
+    npm install  
+
+Para reconstruir los módulos de node.
