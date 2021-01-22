@@ -6,7 +6,7 @@ const opciones = {
     },
     limite: {
         alias: 'l',
-        default: 10,
+        default: 10
     }
 
 }
